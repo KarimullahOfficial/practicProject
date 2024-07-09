@@ -1,0 +1,10 @@
+{
+    "qa": {
+        "app-name": "xyz",
+        "stage": "abc"
+    },
+    "pro": {
+        "app-name": "xyz",
+        "stage": "abc"
+    }
+}
